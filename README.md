@@ -27,7 +27,7 @@ Below is the directory of all topics covered, corresponding to the files in this
 | File Name | Topic / Module | Key Concepts Covered |
 | :--- | :--- | :--- |
 | `01_basic_structure.c` | **Basic Execution** | `main()`, compilation, `printf`, `scanf`, standard I/O |
-| `02_number_system_bitwise.c` | **Bitwise Operations** | `&`, `|`, `^`, `~`, `<<`, `>>`, binary representation |
+| `02_number_system_bitwise.c` | **Bitwise Operations** | `&`, `\|`, `^`, `~`, `<<`, `>>`, binary representation |
 | `03_data_types_variables.c` | **Data Types & Variables**| Modifiers, memory limits, integer overflow, type casting |
 | `04_branching.c` | **Control Flow (Branching)**| `if`, `else if`, `switch-case`, floating-point equality pitfalls |
 | `05_looping.c` | **Control Flow (Looping)**| `for`, `while`, `do-while`, `break`, `continue` |
